@@ -1,5 +1,5 @@
-Green Chile Clam Chowder  
-after La Choza, Santa Fe  
+# Green Chile Clam Chowder  
+## after La Choza, Santa Fe  
 
 3-4 slices chopped thick-cut bacon  
 3T olive oil  
@@ -18,6 +18,8 @@ after La Choza, Santa Fe
 2-3c heavy cream  
 white peppercorn, green peppercorn to taste  
 careful with the salt  
+
+---
 
 Dice potatoes and carrots, set aside in cold water. Dice celery and onions, and saute them in olive oil until translucent. Set aside.  
 

@@ -1,8 +1,12 @@
+# Guava Syrup
+
 1.5lb ripe pink guavas  
 1.5c white sugar  
 4c water  
 1 vanilla bean  
 1 cinammon stick  
+
+---
 
 Peel guavas with vegetable peeler, cut them in half and remove seeds. Cut into 1-2" pieces.  
 

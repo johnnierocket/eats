@@ -1,4 +1,4 @@
-Guajillo Sauce
+# Guajillo Sauce
 
 8 large guajillo chiles, seeded and deveined  
 4 ancho chiles, seeded and deveined  
@@ -11,6 +11,8 @@ Guajillo Sauce
 1/2t ground coriander  
 1t mexican oregano, freshly ground  
 salt to taste  
+
+---
 
 Place chiles in stock pot of cold water and bring to a boil. Turn off stove and let sit, covered, for 15 minutes. Discard chile water.  
 
