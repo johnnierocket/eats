@@ -1,3 +1,5 @@
+Guajillo Sauce
+
 8 large guajillo chiles, seeded and deveined
 4 ancho chiles, seeded and deveined
 2 chiles mecos, seeded and deveined (chipotles are acceptable if mecos not available)
